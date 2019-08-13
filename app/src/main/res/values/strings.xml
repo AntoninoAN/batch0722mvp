@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPMovie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iv_desc_an_image">A movie poster</string>
+</resources>
